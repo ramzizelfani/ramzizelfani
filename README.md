@@ -57,6 +57,13 @@ I am Ramzi Zelfani, a professional IT Specialist with more than ten years workin
 ![JIRA](https://img.shields.io/badge/-JIRA-darkblue?style=flat-square&logo=JIRA)
 ![Confluence](https://img.shields.io/badge/-Confluence-darkblue?style=flat-square&logo=Confluence)
 
+## Hello World!! 🤔
+- 💬 Ask me about anything an everything.
+- 📫 Read my blogs: [Blog](https://blog.zelfa.tech).
+- 🎯 Portfolio site: [Portfolio](https://zelfa.tech).
+- 🔔 Subscribe:- [Channel](https://www.youtube.com/channel/UC4KV2NNW2pWV_cz7ypRFhZA).
+- ⚡ Fun fact: Internet users blink less than usual.
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ramzizelfani&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramzizelfani&hide=TeX&layout=compact)
 
